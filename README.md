@@ -5,6 +5,18 @@ multithread file copy program
 <p>OS: Ubuntu 20.04.1 LTS<p>
 <p>Python: 3.8.2<p>
 <br>
+# Test
+Input the file name: 1G_video.mp4<br>
+Input the new name: new_video.mp4<br>
+
+Input the file name: text.txt<br>
+Input the new name: new_text.txt<br>
+
+Input the file name: music.mp3<br>
+Input the new name: new_music.mp3<br>
+
+Input the file name: exit<br>
+
 <p>log<p> 
 
 <p>6.99  Start copying 1G_video.mp4 to new_video.mp4<p>
